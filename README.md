@@ -1,4 +1,3 @@
-[![MasterHead](https://i.gifer.com/SUV4.gif)]
 <h1 align="center">Hi 👋, I'm Joel Chris Darren</h1>
 <h3 align="center">A Data Enthusiast from Chennai</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/co.gif">
